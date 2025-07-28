@@ -1,0 +1,11 @@
+C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\Application.Model\bin\Debug\net8.0\Application.Model.deps.json
+C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\Application.Model\bin\Debug\net8.0\Application.Model.dll
+C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\Application.Model\bin\Debug\net8.0\Application.Model.pdb
+C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\Application.Model\obj\Debug\net8.0\Application.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\Application.Model\obj\Debug\net8.0\Application.Model.AssemblyInfoInputs.cache
+C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\Application.Model\obj\Debug\net8.0\Application.Model.AssemblyInfo.cs
+C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\Application.Model\obj\Debug\net8.0\Application.Model.csproj.CoreCompileInputs.cache
+C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\Application.Model\obj\Debug\net8.0\Application.Model.dll
+C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\Application.Model\obj\Debug\net8.0\refint\Application.Model.dll
+C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\Application.Model\obj\Debug\net8.0\Application.Model.pdb
+C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\Application.Model\obj\Debug\net8.0\ref\Application.Model.dll
