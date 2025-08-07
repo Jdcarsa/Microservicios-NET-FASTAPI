@@ -17,7 +17,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Courses.Service\Courses.Service.csproj" />
-    <ProjectReference Include="..\CoursesWebApplication\CoursesWebApplication.csproj" />
     <ProjectReference Include="..\User.Service\User.Service.csproj" />
   </ItemGroup>
 

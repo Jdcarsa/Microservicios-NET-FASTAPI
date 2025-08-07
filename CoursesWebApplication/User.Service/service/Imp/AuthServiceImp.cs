@@ -47,13 +47,35 @@ namespace User.Service.service.Imp
             return GenerateJwtToken(user);
         }
 
-        public async Task<string?> LoginAsync(UserLoginDto dto)
+        public async Task<string?>      LoginAsync(UserLoginDto dto)
         {
             var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == dto.Email);
             if (user == null || !BCrypt.Net.BCrypt.Verify(dto.Password, user.PasswordHash))
                 return null;
 
-            return GenerateJwtToken(user);
+            return GenerateMinimalJwtToken(user);
+        }
+
+        private string GenerateMinimalJwtToken(UserModel user)
+        {
+            var key = Encoding.UTF8.GetBytes(_config["Jwt:Key"]);
+            var creds = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256);
+
+            var claims = new[]
+            {
+                new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
+                new Claim(ClaimTypes.Role, user.Role ?? "User")
+            };
+
+            var token = new JwtSecurityToken(
+                issuer: _config["Jwt:Issuer"],
+                audience: _config["Jwt:Audience"],
+                claims: claims,
+                expires: DateTime.UtcNow.AddDays(7),
+                signingCredentials: creds
+            );
+
+            return new JwtSecurityTokenHandler().WriteToken(token);
         }
 
         private string GenerateJwtToken(UserModel user)

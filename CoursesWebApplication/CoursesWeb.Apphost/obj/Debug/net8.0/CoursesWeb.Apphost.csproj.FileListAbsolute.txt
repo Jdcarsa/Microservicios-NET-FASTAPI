@@ -70,7 +70,6 @@ C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\Cours
 C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\CoursesWeb.Apphost\obj\Debug\net8.0\CoursesWeb.Apphost.AssemblyInfo.cs
 C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\CoursesWeb.Apphost\obj\Debug\net8.0\CoursesWeb.Apphost.csproj.CoreCompileInputs.cache
 C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\CoursesWeb.Apphost\obj\Debug\net8.0\Aspire\references\Courses_Service.ProjectMetadata.g.cs
-C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\CoursesWeb.Apphost\obj\Debug\net8.0\Aspire\references\CoursesWebApplication.ProjectMetadata.g.cs
 C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\CoursesWeb.Apphost\obj\Debug\net8.0\Aspire\references\User_Service.ProjectMetadata.g.cs
 C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\CoursesWeb.Apphost\obj\Debug\net8.0\Aspire\references\_AppHost.ProjectMetadata.g.cs
 C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\CoursesWeb.Apphost\obj\Debug\net8.0\CoursesW.D915C9CD.Up2Date

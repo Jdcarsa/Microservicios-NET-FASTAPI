@@ -127,6 +127,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "User.Service.Controllers.UserController",
+    "Method": "GetCurrentUser",
+    "RelativePath": "api/v1/users/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "User.Service.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
