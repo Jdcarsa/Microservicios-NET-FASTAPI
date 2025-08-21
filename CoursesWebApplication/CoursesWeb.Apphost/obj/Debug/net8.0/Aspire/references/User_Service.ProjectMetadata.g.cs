@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class User_Service : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\User.Service\User.Service.csproj""";
+    public string ProjectPath => """C:\Users\jdcar\OneDrive\Documentos\GitHub\Microservicios-NET-FASTAPI\CoursesWebApplication\User.Service\User.Service.csproj""";
 }

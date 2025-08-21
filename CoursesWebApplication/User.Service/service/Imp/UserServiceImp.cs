@@ -64,6 +64,7 @@ namespace User.Service.service.Imp
         {
             var users = _context.Users.Select(u => new UserDto
             {
+                Id = u.Id,
                 FullName = u.FullName,
                 Email = u.Email,
                 PhoneNumber = u.PhoneNumber

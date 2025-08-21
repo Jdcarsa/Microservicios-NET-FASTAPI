@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\User.Service\\User.Service.csproj": {}
+    "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\User.Service\\User.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\Application.Model\\Application.Model.csproj": {
+    "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Application.Model\\Application.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\Application.Model\\Application.Model.csproj",
+        "projectUniqueName": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Application.Model\\Application.Model.csproj",
         "projectName": "Application.Model",
-        "projectPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\Application.Model\\Application.Model.csproj",
+        "projectPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Application.Model\\Application.Model.csproj",
         "packagesPath": "C:\\Users\\jdcar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\Application.Model\\obj\\",
+        "outputPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Application.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\User.Service\\User.Service.csproj": {
+    "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\User.Service\\User.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\User.Service\\User.Service.csproj",
+        "projectUniqueName": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\User.Service\\User.Service.csproj",
         "projectName": "User.Service",
-        "projectPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\User.Service\\User.Service.csproj",
+        "projectPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\User.Service\\User.Service.csproj",
         "packagesPath": "C:\\Users\\jdcar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\User.Service\\obj\\",
+        "outputPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\User.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\Application.Model\\Application.Model.csproj": {
-                "projectPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\Application.Model\\Application.Model.csproj"
+              "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Application.Model\\Application.Model.csproj": {
+                "projectPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Application.Model\\Application.Model.csproj"
               }
             }
           }

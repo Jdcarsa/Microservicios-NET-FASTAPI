@@ -31,9 +31,9 @@ namespace Courses.Service.Controllers
         [HttpPost]
         [Authorize(Roles = "Admin")]
         [Consumes("multipart/form-data")]
-        public async Task<IActionResult> Create([FromForm] CourseCUDto dto, IFormFile image)
+        public async Task<IActionResult> Create([FromForm] CourseCUDto dto)
         {
-            var course = await _service.CreateAsync(dto, image);
+            var course = await _service.CreateAsync(dto);
             return CreatedAtAction(nameof(GetById), new { id = course.Id }, course);
         }
 

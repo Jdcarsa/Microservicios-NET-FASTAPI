@@ -4373,11 +4373,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\Courses.Service\\Courses.Service.csproj",
+      "projectUniqueName": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Courses.Service\\Courses.Service.csproj",
       "projectName": "Courses.Service",
-      "projectPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\Courses.Service\\Courses.Service.csproj",
+      "projectPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Courses.Service\\Courses.Service.csproj",
       "packagesPath": "C:\\Users\\jdcar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\Courses.Service\\obj\\",
+      "outputPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Courses.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4398,8 +4398,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\Application.Model\\Application.Model.csproj": {
-              "projectPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\Application.Model\\Application.Model.csproj"
+            "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Application.Model\\Application.Model.csproj": {
+              "projectPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Application.Model\\Application.Model.csproj"
             }
           }
         }

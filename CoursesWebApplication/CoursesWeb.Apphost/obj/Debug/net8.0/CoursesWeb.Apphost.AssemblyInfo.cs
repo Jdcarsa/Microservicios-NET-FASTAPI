@@ -18,15 +18,15 @@ using System.Reflection;
     "xt\\")]
 [assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\jdcar\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools\\e" +
     "xt\\bin\\")]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\Course" +
-    "sWebApplication\\CoursesWeb.Apphost")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebAp" +
+    "plication\\CoursesWeb.Apphost")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "CoursesWeb.Apphost.csproj")]
 [assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\jdcar\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\tools\\Aspire.Da" +
     "shboard.exe")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoursesWeb.Apphost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce3f6cf723871faae05d30400ca5d5da8459ead1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoursesWeb.Apphost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoursesWeb.Apphost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

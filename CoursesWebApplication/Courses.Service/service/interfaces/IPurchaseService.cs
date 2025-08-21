@@ -6,7 +6,9 @@ namespace Courses.Service.service.interfaces
     public interface IPurchaseService
     {
         Task<bool> PurchaseCourseAsync(PurchaseDto dto);
-        Task<List<PurchaseModel>> GetAllPurchasesAsync();
+        Task<List<PurchaseUCDto>> GetAllPurchasesAsync();
+
+        Task<List<PurchaseDto>> GetPurchasesByUserIdAsync(Guid userId);
     }
 
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AXDNl/sNC1I=",
+  "dgSpecHash": "5mIQpUSen/c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\CoursesWeb.Apphost\\CoursesWeb.Apphost.csproj",
+  "projectFilePath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\CoursesWeb.Apphost\\CoursesWeb.Apphost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jdcar\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\aspire.dashboard.sdk.win-x64.9.0.0.nupkg.sha512",
     "C:\\Users\\jdcar\\.nuget\\packages\\aspire.hosting\\9.0.0\\aspire.hosting.9.0.0.nupkg.sha512",

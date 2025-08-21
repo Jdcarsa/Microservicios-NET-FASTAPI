@@ -19,6 +19,7 @@ namespace Application.Model.courseModel.dto
         public int Duration { get; set; }
         [Range(0.01, 10000.00)]
         public double Price { get; set; }
+        public string? ImagePath { get; set; }
 
     }
 }

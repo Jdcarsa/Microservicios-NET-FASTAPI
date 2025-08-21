@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\CoursesWeb.Apphost\\CoursesWeb.Apphost.csproj": {}
+    "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\CoursesWeb.Apphost\\CoursesWeb.Apphost.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\CoursesWeb.Apphost\\CoursesWeb.Apphost.csproj": {
+    "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\CoursesWeb.Apphost\\CoursesWeb.Apphost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\CoursesWeb.Apphost\\CoursesWeb.Apphost.csproj",
+        "projectUniqueName": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\CoursesWeb.Apphost\\CoursesWeb.Apphost.csproj",
         "projectName": "CoursesWeb.Apphost",
-        "projectPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\CoursesWeb.Apphost\\CoursesWeb.Apphost.csproj",
+        "projectPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\CoursesWeb.Apphost\\CoursesWeb.Apphost.csproj",
         "packagesPath": "C:\\Users\\jdcar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\CoursesWeb.Apphost\\obj\\",
+        "outputPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\CoursesWeb.Apphost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

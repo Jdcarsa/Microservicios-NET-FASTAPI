@@ -50,41 +50,19 @@ namespace Courses.Service.service.imp
             };
         }
 
-        public async Task<CourseDto> CreateAsync(CourseCUDto dto, IFormFile? image)
+        public async Task<CourseDto> CreateAsync(CourseCUDto dto)
         {
-            string? imagePath = null;
-            if (image != null)
-            {
-                var fileName = $"{Guid.NewGuid()}{Path.GetExtension(image.FileName)}";
-                var filePath = Path.Combine(_env.WebRootPath, "images/courses", fileName);
-                Directory.CreateDirectory(Path.GetDirectoryName(filePath)!);
-                using (var stream = new FileStream(filePath, FileMode.Create))
-                {
-                    await image.CopyToAsync(stream);
-                }
-                imagePath = $"images/courses/{fileName}";
-            }
-
             var course = new CourseModel
             {
                 Name = dto.Name,
                 Description = dto.Description,
                 Duration = dto.Duration,
                 Price = dto.Price,
-                ImagePath = imagePath
+                ImagePath = dto.ImagePath
             };
 
             _context.Courses.Add(course);
-
             await _context.SaveChangesAsync();
-
-            await _kafka.SendMessage("CREATED", new
-            {
-                CourseId = course.Id,
-                CourseName = course.Name,
-                Price = course.Price,
-                Timestamp = DateTime.UtcNow
-            });
 
             return new CourseDto
             {
@@ -97,6 +75,7 @@ namespace Courses.Service.service.imp
                 ImagePath = course.ImagePath
             };
         }
+
 
         public async Task<bool> UpdateAsync(Guid id, CourseCUDto dto)
         {

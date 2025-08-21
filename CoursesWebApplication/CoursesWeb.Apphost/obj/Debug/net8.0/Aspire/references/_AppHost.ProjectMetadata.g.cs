@@ -8,5 +8,5 @@ namespace Projects;
 public class CoursesWeb_Apphost
 {
     private CoursesWeb_Apphost() { }
-    public static string ProjectPath => """C:\Users\jdcar\OneDrive\Documentos\U\Microservicios-pruebaNET\Service-User\CoursesWebApplication\CoursesWeb.Apphost""";
+    public static string ProjectPath => """C:\Users\jdcar\OneDrive\Documentos\GitHub\Microservicios-NET-FASTAPI\CoursesWebApplication\CoursesWeb.Apphost""";
 }

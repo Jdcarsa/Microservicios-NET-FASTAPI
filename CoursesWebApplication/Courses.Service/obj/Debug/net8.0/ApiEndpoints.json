@@ -38,8 +38,8 @@
         "IsRequired": false
       },
       {
-        "Name": "image",
-        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "Name": "ImagePath",
+        "Type": "System.String",
         "IsRequired": false
       }
     ],
@@ -138,6 +138,22 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Courses.Service.Controllers.PurchasesController",
+    "Method": "GetByUserId",
+    "RelativePath": "api/v1/courses/purchases/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {

@@ -31,7 +31,7 @@ namespace Courses.Service.service.imp
                 PurchasedAt = dto.PurchasedAt
                 
             };
-
+            Console.WriteLine(purchase);
             _context.Purchases.Add(purchase);
             await _context.SaveChangesAsync();
 
@@ -47,9 +47,35 @@ namespace Courses.Service.service.imp
             return true;
         }
 
-        public async Task<List<PurchaseModel>> GetAllPurchasesAsync()
+        public async Task<List<PurchaseUCDto>> GetAllPurchasesAsync()
         {
-            return await _context.Purchases.Include(p => p.Course).ToListAsync();
+            return await _context.Purchases
+                .Include(p => p.Course)
+                .Select(p => new PurchaseUCDto
+                {
+                    Id = p.Id,
+                    UserId = p.UserId,
+                    CourseName = p.Course.Name,
+                    PurchasedAt = p.PurchasedAt,
+                    Price = p.Price
+                })
+                .ToListAsync();
+        }
+
+
+
+        public async Task<List<PurchaseDto>> GetPurchasesByUserIdAsync(Guid userId)
+        {
+            return await _context.Purchases
+                .Where(p => p.UserId == userId)
+                .Select(p => new PurchaseDto
+                {
+                    CourseId = p.CourseId,
+                    UserId = p.UserId,
+                    Price = p.Price,
+                    PurchasedAt = p.PurchasedAt
+                })
+                .ToListAsync();
         }
     }
 }

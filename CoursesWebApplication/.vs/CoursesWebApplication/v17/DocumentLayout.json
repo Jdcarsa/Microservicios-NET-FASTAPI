@@ -1,9 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FD9A518-25EF-4888-A53D-A485BB6F5137}|User.Service\\User.Service.csproj|c:\\users\\jdcar\\onedrive\\documentos\\u\\microservicios-pruebanet\\service-user\\courseswebapplication\\user.service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AD16A98-C814-47EC-B5D9-F98E7DC20827}|Application.Model\\Application.Model.csproj|c:\\users\\jdcar\\onedrive\\documentos\\github\\microservicios-net-fastapi\\courseswebapplication\\application.model\\coursemodel\\dto\\purchaseucdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD16A98-C814-47EC-B5D9-F98E7DC20827}|Application.Model\\Application.Model.csproj|solutionrelative:application.model\\coursemodel\\dto\\purchaseucdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD16A98-C814-47EC-B5D9-F98E7DC20827}|Application.Model\\Application.Model.csproj|c:\\users\\jdcar\\onedrive\\documentos\\github\\microservicios-net-fastapi\\courseswebapplication\\application.model\\coursemodel\\dto\\coursecudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD16A98-C814-47EC-B5D9-F98E7DC20827}|Application.Model\\Application.Model.csproj|solutionrelative:application.model\\coursemodel\\dto\\coursecudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3857664F-F410-417B-BE8D-F334962E9FDF}|Courses.Service\\Courses.Service.csproj|c:\\users\\jdcar\\onedrive\\documentos\\github\\microservicios-net-fastapi\\courseswebapplication\\courses.service\\service\\imp\\purchaseserviceimp .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3857664F-F410-417B-BE8D-F334962E9FDF}|Courses.Service\\Courses.Service.csproj|solutionrelative:courses.service\\service\\imp\\purchaseserviceimp .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3857664F-F410-417B-BE8D-F334962E9FDF}|Courses.Service\\Courses.Service.csproj|c:\\users\\jdcar\\onedrive\\documentos\\github\\microservicios-net-fastapi\\courseswebapplication\\courses.service\\controllers\\purchasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3857664F-F410-417B-BE8D-F334962E9FDF}|Courses.Service\\Courses.Service.csproj|solutionrelative:courses.service\\controllers\\purchasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3857664F-F410-417B-BE8D-F334962E9FDF}|Courses.Service\\Courses.Service.csproj|c:\\users\\jdcar\\onedrive\\documentos\\github\\microservicios-net-fastapi\\courseswebapplication\\courses.service\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3857664F-F410-417B-BE8D-F334962E9FDF}|Courses.Service\\Courses.Service.csproj|solutionrelative:courses.service\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3857664F-F410-417B-BE8D-F334962E9FDF}|Courses.Service\\Courses.Service.csproj|c:\\users\\jdcar\\onedrive\\documentos\\github\\microservicios-net-fastapi\\courseswebapplication\\courses.service\\service\\interfaces\\ipurchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3857664F-F410-417B-BE8D-F334962E9FDF}|Courses.Service\\Courses.Service.csproj|solutionrelative:courses.service\\service\\interfaces\\ipurchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3857664F-F410-417B-BE8D-F334962E9FDF}|Courses.Service\\Courses.Service.csproj|c:\\users\\jdcar\\onedrive\\documentos\\github\\microservicios-net-fastapi\\courseswebapplication\\courses.service\\service\\imp\\courseserviceimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3857664F-F410-417B-BE8D-F334962E9FDF}|Courses.Service\\Courses.Service.csproj|solutionrelative:courses.service\\service\\imp\\courseserviceimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD9A518-25EF-4888-A53D-A485BB6F5137}|User.Service\\User.Service.csproj|c:\\users\\jdcar\\onedrive\\documentos\\github\\microservicios-net-fastapi\\courseswebapplication\\user.service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FD9A518-25EF-4888-A53D-A485BB6F5137}|User.Service\\User.Service.csproj|solutionrelative:user.service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,16 +54,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\User.Service\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "User.Service\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\jdcar\\OneDrive\\Documentos\\U\\Microservicios-pruebaNET\\Service-User\\CoursesWebApplication\\User.Service\\Controllers\\UserController.cs",
-              "RelativeToolTip": "User.Service\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowDMAAABGAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CourseCUDto.cs",
+              "DocumentMoniker": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Application.Model\\courseModel\\dto\\CourseCUDto.cs",
+              "RelativeDocumentMoniker": "Application.Model\\courseModel\\dto\\CourseCUDto.cs",
+              "ToolTip": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Application.Model\\courseModel\\dto\\CourseCUDto.cs",
+              "RelativeToolTip": "Application.Model\\courseModel\\dto\\CourseCUDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T00:04:17.014Z",
+              "WhenOpened": "2025-08-19T01:09:32.763Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPurchaseService.cs",
+              "DocumentMoniker": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Courses.Service\\service\\interfaces\\IPurchaseService.cs",
+              "RelativeDocumentMoniker": "Courses.Service\\service\\interfaces\\IPurchaseService.cs",
+              "ToolTip": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Courses.Service\\service\\interfaces\\IPurchaseService.cs",
+              "RelativeToolTip": "Courses.Service\\service\\interfaces\\IPurchaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T00:53:53.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PurchaseUCDto.cs",
+              "DocumentMoniker": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Application.Model\\courseModel\\dto\\PurchaseUCDto.cs",
+              "RelativeDocumentMoniker": "Application.Model\\courseModel\\dto\\PurchaseUCDto.cs",
+              "ToolTip": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Application.Model\\courseModel\\dto\\PurchaseUCDto.cs",
+              "RelativeToolTip": "Application.Model\\courseModel\\dto\\PurchaseUCDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T00:48:18.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PurchaseServiceImp .cs",
+              "DocumentMoniker": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Courses.Service\\service\\imp\\PurchaseServiceImp .cs",
+              "RelativeDocumentMoniker": "Courses.Service\\service\\imp\\PurchaseServiceImp .cs",
+              "ToolTip": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Courses.Service\\service\\imp\\PurchaseServiceImp .cs",
+              "RelativeToolTip": "Courses.Service\\service\\imp\\PurchaseServiceImp .cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:45:33.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Courses.Service\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Courses.Service\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Courses.Service\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Courses.Service\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T00:04:51.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PurchasesController.cs",
+              "DocumentMoniker": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Courses.Service\\Controllers\\PurchasesController.cs",
+              "RelativeDocumentMoniker": "Courses.Service\\Controllers\\PurchasesController.cs",
+              "ToolTip": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Courses.Service\\Controllers\\PurchasesController.cs",
+              "RelativeToolTip": "Courses.Service\\Controllers\\PurchasesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T23:55:04.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseServiceImp.cs",
+              "DocumentMoniker": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Courses.Service\\service\\imp\\CourseServiceImp.cs",
+              "RelativeDocumentMoniker": "Courses.Service\\service\\imp\\CourseServiceImp.cs",
+              "ToolTip": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\Courses.Service\\service\\imp\\CourseServiceImp.cs",
+              "RelativeToolTip": "Courses.Service\\service\\imp\\CourseServiceImp.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T00:03:52.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\User.Service\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "User.Service\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\jdcar\\OneDrive\\Documentos\\GitHub\\Microservicios-NET-FASTAPI\\CoursesWebApplication\\User.Service\\Controllers\\UserController.cs",
+              "RelativeToolTip": "User.Service\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T00:04:08.73Z"
             }
           ]
         }
